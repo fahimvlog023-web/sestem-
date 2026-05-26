@@ -1,0 +1,14 @@
+{
+  "name": "lucky-xd-pairing-api",
+  "version": "1.0.0",
+  "description": "Simple and Fast WhatsApp Pairing Code Server by Fahim",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  }
+}
